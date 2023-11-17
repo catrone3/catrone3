@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is Will. Online people may call me catrone3 or Cat. Below are my public repos that I have worked on or am working on.
 
 <!--
 **catrone3/catrone3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
