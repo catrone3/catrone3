@@ -1,5 +1,11 @@
 ### Hi, my name is Will. Online people may call me catrone3 or Cat. Below are my public repos that I have worked on or am working on.
 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=catrone3&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=catrone3&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=catrone3&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=catrone3&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=catrone3&theme=nord_dark)
 <!--
 **catrone3/catrone3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
